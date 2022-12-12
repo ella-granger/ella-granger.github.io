@@ -1,0 +1,13 @@
+---
+title: "Paper Title Number 2KaraTuner: Towards end to end natural pitch correction for singing voice in karaoke"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'abstract'
+<!--- date: 2010-10-01 --->
+venue: 'Interspeech 2022, Incheon, South Korea'
+paperurl: 'https://arxiv.org/abs/2110.09121'
+citation: 'X. Zhuang, H. YuH. Yu, W. Zhao, T. Jiang, and P. Hu, KaraTuner: Towards end-to-end natural pitch correction for singing voice in karaoke, in Proceedings of INTERSPEECH, Incheon, South Korea, 2022.'
+---
+An automatic pitch correction system typically includes several stages, such as pitch extraction, deviation estimation, pitch shift processing, and cross-fade smoothing. However, designing these components with strategies often requires domain expertise and they are likely to fail on corner cases. In this paper, we present KaraTuner, an end-to-end neural architecture that predicts pitch curve and resynthesizes the singing voice directly from the tuned pitch and vocal spectrum extracted from the original recordings. Several vital technical points have been introduced in KaraTuner to ensure pitch accuracy, pitch naturalness, timbre consistency, and sound quality. A feed-forward Transformer is employed in the pitch predictor to capture longterm dependencies in the vocal spectrum and musical note. We also develop a pitch-controllable vocoder based on a novel source-filter block and the Fre-GAN architecture. KaraTuner obtains a higher preference than the rule-based pitch correction approach through A/B tests, and perceptual experiments show that the proposed vocoder achieves significant advantages in timbre consistency and sound quality compared with the parametric WORLD vocoder, phase vocoder and CLPC vocoder.
+
+[arXiv](https://arxiv.org/abs/2110.09121)[DemoPage](https://ella-granger.github.io/KaraTuner/)[Video]
