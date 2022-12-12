@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huiran Yu"
 title_separator          : "-"
 name                     : &name "Huiran Yu"
-description              : &description "personal description"
+description              : &description "2nd year Master's student at Carnegie Mellon University"
 url                      : https://ella-granger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ella-granger.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huiran Yu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "2nd year Master's student at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
