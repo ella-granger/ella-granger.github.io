@@ -3,7 +3,7 @@ title: "KaraTuner: Towards end to end natural pitch correction for singing voice
 collection: https://arxiv.org/abs/2110.09121
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'abstract'
-date: 2022-09
+date: 2022-09-01
 venue: 'Interspeech 2022, Incheon, South Korea'
 paperurl: 'https://arxiv.org/abs/2110.09121'
 citation: 'X. Zhuang, H. Yu, W. Zhao, T. Jiang, and P. Hu, KaraTuner: Towards end-to-end natural pitch correction for singing voice in karaoke, in Proceedings of INTERSPEECH, Incheon, South Korea, 2022.'
