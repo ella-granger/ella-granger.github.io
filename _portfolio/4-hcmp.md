@@ -1,6 +1,8 @@
 ---
 title: "A Polyphonic MIDI Computer Accompaniment System"
-excerpt: "This is a demo of the polyphonic MIDI computer accompaniment system, which can catch the tempo variantions in human performances and play along. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i3EW2GRbK7g/0.jpg)](https://www.youtube.com/watch?v=i3EW2GRbK7g)"
+excerpt: "This is a demo of the polyphonic MIDI computer accompaniment system, which can catch the tempo variantions in human performances and play along.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i3EW2GRbK7g/0.jpg)](https://www.youtube.com/watch?v=i3EW2GRbK7g)"
 collection: portfolio
 ---
 
