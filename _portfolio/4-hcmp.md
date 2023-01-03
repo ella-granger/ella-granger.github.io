@@ -1,0 +1,7 @@
+---
+title: "A Polyphonic MIDI Computer Accompaniment System"
+excerpt: "This is a demo of the polyphonic MIDI computer accompaniment system, which can catch the tempo variantions in human performances and play along. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i3EW2GRbK7g/0.jpg)](https://www.youtube.com/watch?v=i3EW2GRbK7g)"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
