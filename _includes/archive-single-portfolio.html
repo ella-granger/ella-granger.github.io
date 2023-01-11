@@ -56,7 +56,8 @@
     {% endif %}
     {% if post.audios %}
     {% for title in post.audios %}
-    <p>{{ title }}<\p>
+    <p>{{ title }}</p>
+    {% endfor %}
     {% endif %}
     <p>
       {% if post.video %}
