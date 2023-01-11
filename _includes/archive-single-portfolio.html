@@ -50,10 +50,17 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+    <p>
+      {% if post.video %}
+      <iframe width='360' height='270'
+	      src={{ post.video }}>
+      </iframe>"
+      {% endif %}
+    </p>
 
     <p>
     {% if post.paperurl %}
