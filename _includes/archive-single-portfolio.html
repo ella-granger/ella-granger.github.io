@@ -56,7 +56,10 @@
     {% endif %}
     {% if post.audios %}
     {% for title in post.audios %}
-    <p>{{ title }}</p>
+    <p>{{ title }}
+      <audio controls><source src="/audio/{{ title }}.mp3" type="audio/mpeg"></audio>
+      <a href="/files/{{ title }}.pdf"><u>score</u></a>
+    </p>
     {% endfor %}
     {% endif %}
     <p>
